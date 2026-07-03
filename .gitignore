@@ -1,0 +1,4 @@
+# genex (deploy key + local metadata — never publish)
+genex_key
+genex_key.pub
+.genex/
